@@ -26,6 +26,7 @@ $ ./main
 1. Remember to include the file extension!    
   
 #### Notes #
+------
 
 A custom `toLower` function has been added which converts a string with uppercase characters to all lowercase characters. Any file will be loaded into a two dimensional array before it is displayed on the screen.
 
