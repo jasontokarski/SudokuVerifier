@@ -25,14 +25,14 @@ $ ./main
 1. Three example puzzles have been included
 1. Remember to include the file extension!    
   
-#### Notes #
+#### Notes
 ------
-
 A custom `toLower` function has been added which converts a string with uppercase characters to all lowercase characters. Any file will be loaded into a two dimensional array before it is displayed on the screen.
 
 When creating an input sudoku file, enter nine digits for the first row, seperated by spaces. Includes nine total rows, seperating each row by a newline character.
 
-#### Example Input #
+#### Example Input
+------
 ```sh
 3 5 4 8 6 7 1 2 9
 6 7 8 9 2 1 3 5 4
