@@ -1,5 +1,5 @@
 # Sudoku Verifier
-***
+
 A CLI based program used to verify whether a sudoku puzzle was properly completed.
 
   - Compiles on Linux and Windows
